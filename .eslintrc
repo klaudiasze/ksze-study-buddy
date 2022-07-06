@@ -5,5 +5,12 @@
     "browser": true,
     "node": true,
     "es6": true
-  }
+  },
+  "prettier/prettier": [
+    "error",
+    {
+      "endOfLine": "auto"
+    }
+  ],
+  "root": true
 }
