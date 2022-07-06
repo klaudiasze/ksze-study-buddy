@@ -1,6 +1,13 @@
 {
-	"compilerOptions": {
-		"baseUrl": "src"
-	},
-	"include": ["src"]
+  "compilerOptions": {
+    "baseUrl": "src"
+  },
+  "include": ["src"],
+
+  "module.exports": {
+    //...
+    "resolve": {
+      "extensions": [".js", ".jsx"]
+    }
+  }
 }

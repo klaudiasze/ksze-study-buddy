@@ -1,6 +1,6 @@
 import React from 'react';
 import { users } from 'data/users';
-import UsersListItem from 'components/UsersListItem/UsersListItem';
+import UsersListItem from 'components/usersListItem/UsersListItem';
 
 const UsersList = () => (
   <div>
