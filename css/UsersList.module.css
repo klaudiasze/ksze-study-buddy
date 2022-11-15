@@ -1,0 +1,12 @@
+.container {
+  background-color: blue;
+  margin: 50px;
+}
+
+.hasBorder {
+  border: 25px solid black;
+}
+
+.hasBorder {
+  border: 25px solid red;
+}/*# sourceMappingURL=UsersList.module.css.map */
